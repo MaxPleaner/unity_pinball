@@ -1,7 +1,9 @@
-# 3d_games
+# Unity Pinball Game
 
-sketchup + unity games
+This is a work in progress!
 
-# Links to games:
+Built with Sketchup and Unity
 
-[maxpleaner.github.io/3d_games](http://maxpleaner.github.io/3d_games/index)
+# Play game in browser!
+
+[maxpleaner.github.io/unity_pinball](http://maxpleaner.github.io/unity_pinball)
